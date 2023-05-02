@@ -34,3 +34,6 @@ aws-ec2_done/Makefile
 *.json
 *.info
 *.tfstate
+aws-vpc-subnet/.DS_Store
+aws-vpc-subnet/.DS_Store
+aws-vpc-subnet/Makefile

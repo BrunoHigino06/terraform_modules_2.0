@@ -5,7 +5,7 @@ module "vpc" {
   instance_tenancy = ["default", "default", "default"]
   vpc-tags = {
     Environment = "production"
-    Owner = "Alice"
+    Owner = ""
   }
   name = ["vpc1", "vpc2", "vpc3"]
 }
