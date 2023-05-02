@@ -1,0 +1,7 @@
+
+aws-ebs_done/.DS_Store
+aws-ebs_done/deploy-pr/config.yml
+aws-ebs_done/deploy-pr/terragrunt.hcl
+aws-ebs_done/Makefile
+aws-ebs_done/pipeline.yml
+aws-ebs_done/terragrunt.hcl
