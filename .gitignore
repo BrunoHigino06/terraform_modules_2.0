@@ -30,3 +30,7 @@ aws-security_groups/Makefile
 aws-security_groups/.DS_Store
 aws-internet_gateway_done/Makefile
 aws-ec2_done/Makefile
+*.exe
+*.json
+*.info
+*.tfstate
